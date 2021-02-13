@@ -1,7 +1,9 @@
 # CameraApp
 Basic Camera App With Gallery
 
-APK Link : https://drive.google.com/file/d/1IvGmnvwGmCA_nfh7y85yzmuWaK7AHiOc/view?usp=sharing
+APK Link : https://drive.google.com/file/d/1IvGmnvwGmCA_nfh7y85yzmuWaK7AHiOc/view?usp=sharing 
+
+App Demo Video Link : https://drive.google.com/file/d/1AZ9BCmsXYFa4AAf6H9g4m1v6sjy4k9R7/view?usp=sharing
 
 # Basic Functions:
 
